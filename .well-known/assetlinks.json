@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shopwit.onnon",
+      "sha256_cert_fingerprints": [
+        "4C:3B:69:E8:ED:94:20:81:4C:92:CA:C5:25:A8:3A:43:62:4B:74:4F:82:F1:C0:59:0E:A9:55:7F:AB:A9:05:BF"
+      ]
+    }
+  }
+]
